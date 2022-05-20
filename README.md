@@ -10,7 +10,7 @@ Desenvolvi esse Blog durante um curso de PHP, onde o principal objetivo era colo
 do curso.
 
 * Desenvolvi a estrutura e criei a conexão com os arquivos mocados.
-* Tambem trabalhei com o Front-end utilizando somente o PHP junto HTML para o layout.
+* Tambem trabalhei com o Front-end utilizando o PHP junto HTML para o layout.
 
 ## 🛠️ Construído com
 
