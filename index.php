@@ -3,7 +3,7 @@
 ?>
   <main>
     <div id="title-container">
-      <h1>Blog Codar</h1>
+      <h1>Blog HSCode</h1>
       <p>O meu blog de programação</p>
     </div>
     <div id="posts-container">
